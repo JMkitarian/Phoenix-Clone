@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: fdbfaa2751f6447c2b4c7cd16edd1dae
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cheep: {instanceID: 0}
+  - enemy3: {fileID: 100002, guid: e81ade9a95b414d2fabb1ed004e78a8c, type: 2}
+  - BroodScript: {instanceID: 0}
+  - PointKeeper: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

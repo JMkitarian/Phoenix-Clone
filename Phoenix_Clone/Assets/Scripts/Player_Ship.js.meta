@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 990570729d52346b989463198cdb6850
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - playerObject: {fileID: 400000, guid: fa0efeb0e1a084ab9b9243f8ca10f70a, type: 2}
+  - laser: {fileID: 400000, guid: 45954396e653c47a29e7bcdca0c41b09, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

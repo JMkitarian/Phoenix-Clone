@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4ed8df8d06890482a9c1e56db0b6f7c1
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - enemyOne: {fileID: 400000, guid: 98b6d930b4e944d8280d8b03607dbd33, type: 2}
+  - enemyTwo: {fileID: 400000, guid: 959331478bbe34b119e238c1bf01e8fd, type: 2}
+  - enemyThree: {instanceID: 0}
+  - enemyFour: {instanceID: 0}
+  - enemyFive: {instanceID: 0}
+  - Boss: {instanceID: 0}
+  - enemyOneObj: {fileID: 100000, guid: 98b6d930b4e944d8280d8b03607dbd33, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

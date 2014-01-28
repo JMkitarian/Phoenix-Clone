@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: c0648edfa71a640f1884b90945bd62be
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cheep: {fileID: 400000, guid: b83a184cc41e5451caf474d877369dd9, type: 2}
+  - BroodScript: {instanceID: 0}
+  - PointKeeper: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

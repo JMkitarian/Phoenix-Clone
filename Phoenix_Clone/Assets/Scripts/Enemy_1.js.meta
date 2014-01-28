@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 41cc1fc431a2847c198436506c64c4fb
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cheep: {fileID: 400000, guid: b83a184cc41e5451caf474d877369dd9, type: 2}
+  - trigger: {fileID: 400000, guid: 45954396e653c47a29e7bcdca0c41b09, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
